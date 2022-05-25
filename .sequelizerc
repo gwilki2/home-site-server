@@ -1,0 +1,6 @@
+module.exports = {
+    "config": "src/config/dbConn.js", 
+    "models-path": "src/models", 
+    "seeders-path": "dbBuild/seeders", 
+    "migrations-path": "dbBuild/migrations"
+}
